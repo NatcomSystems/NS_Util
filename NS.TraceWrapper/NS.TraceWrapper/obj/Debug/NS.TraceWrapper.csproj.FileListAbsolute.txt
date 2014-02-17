@@ -1,0 +1,5 @@
+D:\NS_Util\NS.TraceWrapper\NS.TraceWrapper\bin\Debug\NS.TraceWrapper.dll
+D:\NS_Util\NS.TraceWrapper\NS.TraceWrapper\bin\Debug\NS.TraceWrapper.pdb
+D:\NS_Util\NS.TraceWrapper\NS.TraceWrapper\obj\Debug\ResolveAssemblyReference.cache
+D:\NS_Util\NS.TraceWrapper\NS.TraceWrapper\obj\Debug\NS.TraceWrapper.dll
+D:\NS_Util\NS.TraceWrapper\NS.TraceWrapper\obj\Debug\NS.TraceWrapper.pdb

@@ -1,0 +1,7 @@
+D:\NS_Util\NS.TraceWrapper\WebTest\bin\WebTest.dll
+D:\NS_Util\NS.TraceWrapper\WebTest\bin\WebTest.pdb
+D:\NS_Util\NS.TraceWrapper\WebTest\bin\NS.TraceWrapper.dll
+D:\NS_Util\NS.TraceWrapper\WebTest\bin\NS.TraceWrapper.pdb
+D:\NS_Util\NS.TraceWrapper\WebTest\obj\Debug\ResolveAssemblyReference.cache
+D:\NS_Util\NS.TraceWrapper\WebTest\obj\Debug\WebTest.dll
+D:\NS_Util\NS.TraceWrapper\WebTest\obj\Debug\WebTest.pdb
